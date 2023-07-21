@@ -12,7 +12,7 @@ This project is a Python script that attempts to brute force an Instagram accoun
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Shyam095/instagram-brute-force.git
+git clone https://github.com/Shyam095/Instagram_bruteforce.git
 cd instagram-brute-force
 ```
 
